@@ -5,7 +5,7 @@ total = 0
 index = 0 
 while index < array.count do 
   if  array[index].class == String
-    
+  end
     total += 1 
   end
   index += 1 
